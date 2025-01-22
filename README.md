@@ -5,11 +5,6 @@ Dynamic Informatics undergraduate with a passion for exploring new horizons in p
 
 ---
 
-### 🌟 Fun Fact
-- I have autism
-
----
-
 ### 🌐 Connect with Me
 <p align="left">
   <a href="https://dribbble.com/kevynoctavian" target="_blank">
